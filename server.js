@@ -5,7 +5,6 @@ const resolve = file => path.resolve(__dirname, file)
 const fs = require('fs')
 const path = require('path')
 const express = require('express')
-const serialize = require('serialize-javascript')
 const LRU = require('lru-cache')
 const pug = require('pug')
 
