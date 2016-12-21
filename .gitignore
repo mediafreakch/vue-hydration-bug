@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+dist/*
+!dist/.gitkeep
+public/*
+!public/.gitkeep
+npm-debug.log
+.idea
+*.iml
